@@ -16,16 +16,21 @@ la clase de las monedas solo tiene getters
 ![3](https://github.com/Saam97/challenge-oracle-one/assets/114370885/0b33b22d-c988-43a5-9b9a-d8a94b83dbbd)
 
 Creamos la vista e instancias en las clase
+
 ![4](https://github.com/Saam97/challenge-oracle-one/assets/114370885/c83eb634-cf66-47c1-92a5-ec27d53891cc)
 
 Creamos Metodo del Boton convertir
+
 ![5](https://github.com/Saam97/challenge-oracle-one/assets/114370885/c769a7ca-af61-47c6-9c0d-b71052c4991d)
 
 Al ejecutar se debe ingresar los datos de la distancia. 
+
 ![6](https://github.com/Saam97/challenge-oracle-one/assets/114370885/e4fec88f-0ac4-4eb4-a6b4-629e1c4367f6)
 
 Ingresar la Cantidad y seleccionar las monedas. en caso de selecionar la misma moneda en origen y destino, lanza una advertencia
+
 ![8](https://github.com/Saam97/challenge-oracle-one/assets/114370885/497d94c0-12a7-4a3e-b414-33dbdb283a30)
+
 
 ![9](https://github.com/Saam97/challenge-oracle-one/assets/114370885/b69a74d6-89fe-4d8f-a548-9835c697dc71)
 
